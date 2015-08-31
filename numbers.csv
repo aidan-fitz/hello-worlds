@@ -1,0 +1,42 @@
+decimal,hex,binary,english
+0,0,0,zero
+1,1,1,one
+2,2,10,two
+3,3,11,three
+4,4,100,four
+5,5,101,five
+6,6,110,six
+7,7,111,seven
+8,8,1000,eight
+9,9,1001,nine
+10,A,1010,ten
+11,B,1011,eleven
+12,C,1100,twelve
+13,D,1101,thirteen
+14,E,1110,fourteen
+15,F,1111,fifteen
+16,10,10000,sixteen
+17,11,10001,seventeen
+18,12,10010,eighteen
+19,13,10011,nineteen
+20,14,10100,twenty
+21,15,10101,twenty-one
+22,16,10110,twenty-two
+23,17,10111,twenty-three
+24,18,11000,twenty-four
+25,19,11001,twenty-five
+26,1A,11010,twenty-six
+27,1B,11011,twenty-seven
+28,1C,11100,twenty-eight
+29,1D,11101,twenty-nine
+30,1E,11110,thirty
+40,28,101000,forty
+50,32,110010,fifty
+60,3C,111100,sixty
+70,46,1000110,seventy
+80,50,1010000,eighty
+90,5A,1011010,ninety
+100,64,1100100,one hundred
+200,C8,11001000,two hundred
+300,12C,100101100,three hundred
+400,190,110010000,four hundred
